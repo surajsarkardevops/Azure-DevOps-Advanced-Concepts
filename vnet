@@ -1,1 +1,12 @@
-
+Concept	Real-Life Analogy	Purpose
+VNet	Your house in a gated community	Your private space in Azure
+Subnet	Rooms in your house	Organize resources
+IP Address	Room or apartment number	Unique identity of a device
+NSG	Security guard at the door	Controls who comes in or goes out
+Route Table (UDR)	GPS navigation	Direct traffic where you want it to go
+Peering	Tunnel to a neighbor’s house	Connect VNets privately
+VPN Gateway	Encrypted tunnel to home	Securely connect to Azure from outside
+ExpressRoute	Private highway	High-speed private connection to Azure
+NAT Gateway	One main exit door	Outbound internet without public IPs
+Azure Bastion	Remote desktop without opening door	Secure VM access without exposing it
+Service/Private Endpoints	Backdoor/shop inside house	Access Azure services securely
